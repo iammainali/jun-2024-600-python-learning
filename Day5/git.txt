@@ -1,0 +1,32 @@
+Git is a version control system.
+
+why do we need git?
+=> It is used for version control.
+=> It is used in team colloboration.
+
+Where do we store our code?
+=> In github/gitlab/bitbucket
+=> Github/gitlab/bitbucket understands the git language.
+=> Github and gitlab are the cloud based software solution(web-application) running
+
+Q.Why not google drive? onedrive?
+=>Google drive/ onedrive doesn't understand git language(commits, branches, staging area and so on).
+=>Team colloboration is also not so helpful in cloud based drives.
+
+# Git commands
+# Git configuration (one-time in one-laptop )
+
+
+What is repository(repo)?
+=> It is simply a project folder in git.
+
+let's initiate a git repo
+5. git initiate
+6. git add .
+ => It makes you code recognize to staging area.
+7.   
+8. git status
+=> checks the current status of your git repo
+
+#To generate key for mac
+cat id_.pub
